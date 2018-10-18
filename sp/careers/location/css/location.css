@@ -1,0 +1,33 @@
+.tel .sectionArea h3 {
+	padding: 9px 10px;
+	border-bottom: 1px solid #d9d9d9;
+	background-color: #fff;
+	color: #000;
+	font-weight: bold;
+}
+
+.locationContent .pTitle {
+	padding: 11px 15px 9px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	background-color: #f5f5f5;
+}
+
+.firstLocation .pTitle {
+	border-top: none;
+}
+
+.locationContent .contactText {
+	background-color: #e6eaf4;
+}
+
+.location h3 {
+	margin-bottom: 5px;
+	color: #4c4c4c;
+	font-size: 125%;
+	font-weight: bold;
+}
+
+.tel .pContent {
+	margin-bottom: 0;
+}

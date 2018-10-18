@@ -1,0 +1,67 @@
+.applyUl .applyLi01 {
+	position: relative;
+	border-radius: 3px;
+	background: #0a318f;
+}
+
+.applyLi01 a {
+	display: block;
+	position: relative;
+	color: #fff;
+	font-size: 116%;
+	padding: 11px 50px 11px 50px;
+}
+.applyLi01 a::before {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 8px;
+	margin: auto;
+	width: 32.5px;
+	height: 26px;
+	background: url('/sp/careers/jobsearch/images/base_index_img01.png') no-repeat;
+	background-size: contain;
+	content: "";
+}
+.applyLi01 a::after,
+.applyLi02 a::after {
+	position: absolute;
+	top: 0;
+	right: 10px;
+	bottom: 0;
+	margin: auto;
+	width: 9.5px;
+	height: 14.5px;
+	background: url('/sp/careers/jobsearch/images/base_index_arrow.png') no-repeat;
+	background-size: contain;
+	content: "";
+}
+
+.applyUl .applyLi02 {
+	position: relative;
+	border-radius: 3px;
+	background: #00a0e9;
+}
+
+.applyLi02 a {
+	display: block;
+	position: relative;
+	color: #fff;
+	font-size: 116%;
+	padding: 11px 50px 11px 50px;
+}
+.applyLi02 a::before {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 8px;
+	margin: auto;
+	width: 32.5px;
+	height: 26px;
+	background: url('/sp/careers/jobsearch/images/base_index_img02.png') no-repeat;
+	background-size: contain;
+	content: "";
+}
+.career .footerBlock a {
+	padding-right: 54px;
+}

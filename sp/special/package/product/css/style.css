@@ -1,0 +1,138 @@
+/*common*/
+.secTitle {
+	border-left: 6px solid #d9d9d9;
+}
+
+/*Admer css*/
+ul.applicationUl {
+	padding-left:18px;
+	list-style: disc;
+}
+
+.applicationUl li {
+	float: left;
+	margin-right: 30px;
+}
+
+/*Easypeel css*/
+ul.featuresList {
+	margin-right: 43px;
+	padding-left: 18px;
+	list-style: disc;
+}
+.base .zoomIn {
+	bottom: 60px;
+}
+.sectionArea02 {
+	position: relative;
+}
+.propertiesUl,
+.propertiesTxt {
+	margin-right: 70px;
+}
+.propertiesUl li {
+	float: left;
+	position: relative;
+	padding: 0 10px;
+}
+.propertiesUl .propertiesLi01::before {
+	position: absolute;
+	top: 3px;
+	left: 0;
+	width: 8px;
+	height: 8px;
+	background: url("/sp/special/package/product/images/easy_peel_properties_list_img_01.png") no-repeat;
+	background-size: 100% 100%;
+	content: "";
+}
+.propertiesUl .propertiesLi02 {
+	padding-right: 15px
+}
+.propertiesUl .propertiesLi02::before {
+	position: absolute;
+	top: 5px;
+	left: 2px;
+	width: 5.5px;
+	height: 5.5px;
+	background: url("/sp/special/package/product/images/easy_peel_properties_list_img_02.png") no-repeat;
+	background-size: 100% 100%;
+	content: "";
+}
+.propertiesUl .propertiesLi03::before {
+	position: absolute;
+	top: 2px;
+	left: -3px;
+	width: 10.5px;
+	height: 9px;
+	background: url("/sp/special/package/product/images/easy_peel_properties_list_img_03.png") no-repeat;
+	background-size: 100% 100%;
+	content: "";
+}
+.propertiesUl .propertiesLi04::before {
+	position: absolute;
+	top: 4px;
+	left: 1px;
+	width: 5px;
+	height: 5.5px;
+	background: url("/sp/special/package/product/images/easy_peel_properties_list_img_04.png") no-repeat;
+	background-size: 100% 100%;
+	content: "";
+}
+
+/*evolue css*/
+.txtBlock .ptxt02 {
+	padding-bottom: 10px;
+}
+
+ul.evoluePropUl {
+	margin-left: 18px;
+	list-style: disc;
+}
+
+/*rxc22 css*/
+.ptext {
+	margin: 0 10px 10px;
+	letter-spacing: -0.1px;
+}
+ul.rxc22FeatureUl {
+	margin-left: 15px;
+	list-style: disc;
+}
+ol.evoluePropUl,
+ol.rxc22ApplicationOl {
+	padding: 0 10px;
+	list-style: decimal;
+}
+.rxc22ApplicationOl li {
+	margin: 0 45px 5px 3px;
+}
+.appSpan01 {
+	display: block;
+}
+/*takelac_takenate css*/
+.takelacFeatureOl {
+	padding-left: 15px;
+	list-style: decimal;
+}
+.takelacFeatureLi01,
+.takelacFeatureLi03 {
+	margin-right: 80px;
+}
+.takelacFeatureLi02,
+.takelacFeatureLi04,
+.takelacFeatureLi05 {
+	margin-left: -10px;
+}
+.propTxtBlock span {
+	display: block;
+}
+/*tpx css*/
+ol.tpxFeatureOl {
+	padding-left: 15px;
+	list-style: decimal;
+}
+ul.tpxAppUl {
+	padding-left: 20px;
+	list-style: disc;
+}
+

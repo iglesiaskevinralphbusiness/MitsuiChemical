@@ -1,0 +1,7 @@
+ul.benefitsUl {
+	list-style: disc;
+	padding-left: 20px;
+}
+.benefitsUl li:nth-child(1) {
+	line-height: 1.4;
+}
